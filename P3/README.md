@@ -6,7 +6,7 @@ Aplikasi ini adalah hasil dari tugas praktikum Pertemuan 3 untuk mata kuliah Pen
 
 <!-- Ganti path/URL di dalam kurung dengan lokasi file screenshot Anda -->
 **Tampilan Android:**  
-![Screenshot Android](img\android.png)
+![Screenshot Android](img/android.png)
 
 ## Penjelasan Kode
 
